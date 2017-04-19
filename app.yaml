@@ -9,9 +9,9 @@ handlers:
   static_files: favicon.ico
   upload: favicon\.ico
 
-- url: /(.*\.(js|css|html|gif|png|jpg|))$
+- url: /(.*\.(js|css|html|gif|png|jpg|js|css|svg|eot|ttf|woff|woff2))$
   static_files: \1
-  upload: .*\.(js|css|html|gif|png|jpg|)$
+  upload: .*\.(js|css|html|gif|png|jpg|svg)$
   
 
 - url: /(.*\.php)$
