@@ -149,7 +149,7 @@
                 </div>
 				<div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://file2.stylenanda.com/web/3ce1/130108_shimmer_SATURN(0)_en.jpg" alt="">
-                    <h3>3CE MOOD RECIPE TRIPLE SHADOW <br>
+                    <h3>3CE MOOD RECIPE TRIPLE SHADOW. <br>
                         <small>#SWOON</small>
                     </h3>
                 </div>
