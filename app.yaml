@@ -11,7 +11,7 @@ handlers:
 
 - url: /(.*\.(js|css|html|gif|png|jpg|js|css|svg|eot|ttf|woff|woff2))$
   static_files: \1
-  upload: .*\.(js|css|html|gif|png|jpg|svg)$
+  upload: .*\.(js|css|html|gif|png|jpg|js|css|svg|eot|ttf|woff|woff2)$
   
 
 - url: /(.*\.php)$
@@ -20,4 +20,4 @@ handlers:
  
 
 - url: .*
-  script: main.php
+  script: index.php
