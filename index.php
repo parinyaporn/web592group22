@@ -56,7 +56,7 @@
                         <a href="index.php">HOME</a>
                     </li>
                     <li>
-                        <a href="EYE SHADOW.php">EYE SHADOW</a>
+                        <a href="EYE SHADOW.html">EYE SHADOW</a>
                     </li>
                     <li>
                         <a href="BLUSH.html">BLUSH</a>
